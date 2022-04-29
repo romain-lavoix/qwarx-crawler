@@ -1,0 +1,7 @@
+projects:
+  dev: 340347
+  prod: 339474
+stacks:
+  default: scrapy:1.5-py3
+requirements:
+  file: requirements.txt
